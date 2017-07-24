@@ -1,0 +1,6 @@
+c:\users\nasi4\documents\visual studio 2015\Projects\Defining Classes - Part 2\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.exe.config
+c:\users\nasi4\documents\visual studio 2015\Projects\Defining Classes - Part 2\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.exe
+c:\users\nasi4\documents\visual studio 2015\Projects\Defining Classes - Part 2\Defining Classes - Part 2\bin\Debug\Defining Classes - Part 2.pdb
+c:\users\nasi4\documents\visual studio 2015\Projects\Defining Classes - Part 2\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.csprojResolveAssemblyReference.cache
+c:\users\nasi4\documents\visual studio 2015\Projects\Defining Classes - Part 2\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.exe
+c:\users\nasi4\documents\visual studio 2015\Projects\Defining Classes - Part 2\Defining Classes - Part 2\obj\Debug\Defining Classes - Part 2.pdb
